@@ -5,4 +5,4 @@ Dicha base de datos estará compuesta por las tablas producto, cliente y proveed
 
 # FUNCIONALIDAD
 
-![index](CRUD/index.png)
+<img src='CRUD/index.png'>
