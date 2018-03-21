@@ -4,7 +4,7 @@ Dicha base de datos estará compuesta por las tablas producto, cliente y proveed
 
 </br>
 
-#INICIO
+# INICIO
 </br>
 Nos encontramos con un menú de INICIO, el cual contiene una barra de navegación en la que están presentes una serie de opciones.
 En este menú se muestran alguna información de los clientes registrados.
@@ -12,19 +12,19 @@ En este menú se muestran alguna información de los clientes registrados.
 
 <img src="INICIO.PNG">
 
-#CLIENTES
+# CLIENTES
 </br>
 En clientes se muestra toda la información de éstos, proporcionándonos a su vez la opción de modificar el deseado.
 </br>
 <img src="CLIENTES.PNG">
 
-#PRODUCTOS
+# PRODUCTOS
 </br>
 La ventana de productos nos muestra todos los productos regisrados en la tienda,incluyendo su idéntificador, su stock...
 </br>
 <img src="PRODUCTOS.PNG">
 
-#ALTA
+# ALTA
 </br>
 Al ingresar en la opción "Añadir perfil" nos encontramos con un formulario, el cual deberemos de completar correctamente, ya que si no, aparecerá un mensaje de advertencia. Una vez completado dicho formulario, aparecerá un mensaje el cual dirá que se ha completado exitosamente el formulario.
 </br>
