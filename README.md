@@ -47,4 +47,12 @@ Al ingresar en la opción "AÑADIR PERFIL" nos encontramos con un formulario, el
 <img src="ALTA.PNG">
 <img src="alta2.PNG">
 
+# BORRADO
+</br>
+Al ingresar en la opción "BORRAR PERFIL", nos encontramos con el listado de clientes, los cuales están acompañados de un botón nombrado "BORRAR". Al hacer click sobre el, se borrará automaticamente el cliente seleccionado.
+</br>
+</br>
+</br>
+<img src="BORRAR.PNG">
+
 
