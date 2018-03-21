@@ -55,4 +55,12 @@ Al ingresar en la opción "BORRAR PERFIL", nos encontramos con el listado de cli
 </br>
 <img src="BORRAR.PNG">
 
+# MODIFICAR
+</br>
+Al hacer click sobre el botón "MODIFICAR" en la ventana "CLIENTES", se nos redirigirá a otro formulario de modificación, el cual deberemos de completar correctamente. 
+</br>
+</br>
+</br>
+<img src="MODIFICAR.PNG">
+
 
