@@ -5,5 +5,5 @@ Dicha base de datos estará compuesta por las tablas producto, cliente y proveed
 
 # FUNCIONALIDAD
 
-<img src="INICIO.png"  width="700px">
+<img src="INICIO.png">
 
