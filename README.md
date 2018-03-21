@@ -18,17 +18,23 @@ En este menú se muestran alguna información de los clientes registrados.
 </br>
 En clientes se muestra toda la información de éstos, proporcionándonos a su vez la opción de modificar el deseado.
 </br>
+</br>
+</br>
 <img src="CLIENTES.PNG">
 
 # PRODUCTOS
 </br>
 La ventana de productos nos muestra todos los productos regisrados en la tienda,incluyendo su idéntificador, su stock...
 </br>
+</br>
+</br>
 <img src="PRODUCTOS.PNG">
 
 # ALTA
 </br>
 Al ingresar en la opción "Añadir perfil" nos encontramos con un formulario, el cual deberemos de completar correctamente, ya que si no, aparecerá un mensaje de advertencia. Una vez completado dicho formulario, aparecerá un mensaje el cual dirá que se ha completado exitosamente el formulario.
+</br>
+</br>
 </br>
 <img src="ALTA.PNG">
 <img src="alta2.PNG">
