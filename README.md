@@ -9,6 +9,8 @@ Dicha base de datos estará compuesta por las tablas producto, cliente y proveed
 Nos encontramos con un menú de INICIO, el cual contiene una barra de navegación en la que están presentes una serie de opciones.
 En este menú se muestran alguna información de los clientes registrados.
 </br>
+</br>
+</br>
 
 <img src="INICIO.PNG">
 
