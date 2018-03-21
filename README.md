@@ -5,5 +5,5 @@ Dicha base de datos estará compuesta por las tablas producto, cliente y proveed
 
 # FUNCIONALIDAD
 
-<img src="CRUD_JSP/INICIO.png"
+<img src="CRUD_JSP/ALTA1.PNG">
 
